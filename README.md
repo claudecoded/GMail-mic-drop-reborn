@@ -4,6 +4,8 @@ A modern, highly resilient Chrome/Edge Extension reinstatement of Google's infam
 
 If you don't know what this easter egg is, I explain to you. Back in April 2016, Goolge added a easter-egg on GMail services that, for every e-mail that you send, a Minion GIF was automatically delivered with your e-mail. Ha ha haa, what can be wrong... right? But, obviously lots of people clicked that button without knowing of the easter-egg - resulting in entire "legions" of Minion GIFs in matters that simply shouldn't have minions; since hospital diagnosis and companies documents - resulting in lots of people being even FIRED - all because of a stupid Minion GIF you didn't even want to send.
 
+<img width="976" height="349" alt="image" src="https://github.com/user-attachments/assets/78e18097-f148-41ac-a0d1-763ea3453743" />
+
 So, back to the repo, this extension safely injects the custom button alongside your standard controls, drops the iconic Minion GIF, and triggers the send workflow seamlessly.
 
 ## How to Install and Test
