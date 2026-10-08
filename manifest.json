@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Gmail Mic Drop Reborn",
+  "version": "1.1",
+  "description": "Reinstates the infamous 2016 Google April Fools Minion Mic Drop button in Gmail.",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://google.com*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png"
+  }
+}
